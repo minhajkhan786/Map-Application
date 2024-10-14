@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "65649670770",
+    "project_id": "person-location-dd352",
+    "storage_bucket": "person-location-dd352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65649670770:android:69fc814082ec26d32aa0eb",
+        "android_client_info": {
+          "package_name": "com.example.person_location"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTtAVOsQ_RqLSumrP1-dN_SobagvcHx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65649670770:android:dddfb4f532c989d72aa0eb",
+        "android_client_info": {
+          "package_name": "com.example.vinove_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkTtAVOsQ_RqLSumrP1-dN_SobagvcHx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
